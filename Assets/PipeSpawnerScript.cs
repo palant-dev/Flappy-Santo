@@ -13,6 +13,7 @@ public class PipeSpawnerScript : MonoBehaviour
     void Start()
     {
         spawnPipe();
+        timer = -1;
     }
 
     // Update is called once per frame
