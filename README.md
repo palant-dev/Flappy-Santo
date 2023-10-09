@@ -10,6 +10,10 @@
 Flappy Santo is a C# game developed using the Unity game engine as part of my first project at the Apple Academy for game design and creation. Inspired by the popular mobile game Flappy Bird, the project aimed to pay homage to our mentor, Santo.
 
 ## Features
-[Demo]
+
+
+https://github.com/palant-dev/Flappy-Santo/assets/113528707/d5be414e-072c-4bd8-a7ad-8d03ed30a649
+
+
 
 Flappy Santo is a side-scrolling 2D game where players control a character, resembling Santo, as they navigate through a series of obstacles. The objective is to guide the character safely through gaps in the pipes, earning points for each successful passage. The game tests the player's reflexes and timing, challenging them to achieve the highest score possible.
